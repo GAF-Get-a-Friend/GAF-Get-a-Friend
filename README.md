@@ -1,4 +1,4 @@
 # GAF-Get-a-Friend
-## What is GAF?
+- What is GAF?
 
 *Test
